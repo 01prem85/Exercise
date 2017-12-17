@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Medtronic Calculation</string>
+    <string name="title_activity_file_download">Medtronic FileDownload</string>
+
+    <string name="back_to_first">Back To First</string>
+    <string name="go_to_second">Go To Second</string>
+    <string name="download">Download</string>
+
+    <string name="hostname_text_hint">Key-in HostName</string>
+    <string name="filename_text_hint">Key-in FileName</string>
+    <string name="hostname_text">HostName</string>
+    <string name="filename_text">FileName</string>
+    <string name="download_start_text">Downloading File!</string>
+    <string name="download_finished_text">File Downloaded!</string>
+    <string name="download_error_text">Error in Downloading!</string>
+    <string name="download_progress_text">Downloaded (%d/%d) MB</string>
+    <string name="empty_field_error">Value is empty!</string>
+    <string name="no_network_error">You are offline!</string>
+    <string name="write_permission_error">Accept permission to proceed !</string>
+
+    <!--To Remove-->
+    <string name="test_hostname">https://alpsmobi.files.wordpress.com/</string>
+    <string name="test_url_path">2017/12/sample.pdf</string>
+</resources>
